@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+    <order>
+        <domain>4</domain>
+        <webOrderNo>211111101</webOrderNo>
+        <orderType>WEB</orderType>
+        <orderDate>2018-04-12</orderDate>
+        <currencyCode>SEK</currencyCode>
+        <firstName>Eric</firstName>
+        <lastName>Holm</lastName>
+        <payment>
+            <paymentMethod>ADN</paymentMethod>
+            <paymentMethodDescription>ADYEN</paymentMethodDescription> 
+        </payment>
+        <shipping>
+            <location>SWE E-COM</location>
+            <shippingDescription>Fedex - Free – Florida</shippingDescription>
+            <shippingMethod>ddp</shippingMethod>
+            <carriercode>POSTNORD</carriercode>
+            <carrierservice>P19</carrierservice>
+            <shippingPrice>0</shippingPrice>
+        </shipping>
+        <shiptoAddress>
+            <address>
+                <phone>+46722289765</phone>
+                <email>eric@holm.com</email>
+                <name>Eric Holm</name>
+                <zip>11620</zip>
+                <address1>Svartensgatan 12c</address1>
+                <country>SE</country>
+                <city>Stockholm</city>
+            </address>
+        </shiptoAddress>
+        <grandTotal>47.94</grandTotal>
+        <grandTotalExVat>47.94</grandTotalExVat>
+        <lines>
+            <line>
+                <productNo>04092110</productNo>
+                <itemNo>04092110_NOSIZE</itemNo>
+                <unitPriceInclVat>47.94</unitPriceInclVat> 
+                <unitPriceExVat>47.94</unitPriceExVat>
+                <unitVatPercent>0.0000</unitVatPercent>
+                <quantity>1.0000</quantity>
+                <discountAmount>51.06</discountAmount>
+                <lineAmount>47.94</lineAmount>
+                <lineAmountExVat>47.94</lineAmountExVat>
+                <itemDescription>Plattan 2 BT Black</itemDescription>
+            </line>
+        </lines>
+    </order>
+</nav>
