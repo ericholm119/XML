@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+    <order>
+        <domain>3</domain>
+        <webOrderNo>111111120</webOrderNo>
+        <orderType>WEBB2B</orderType>
+<customerID>CU4000412</customerID>
+        <orderDate>2018-04-12</orderDate>
+        <currencyCode>USD</currencyCode>
+        <firstName>Erica</firstName>
+        <lastName>Holmin</lastName>
+        <payment>
+            <paymentMethod>INVOICE</paymentMethod>
+            <paymentMethodDescription>B2B Invoice Payment</paymentMethodDescription> 
+        </payment>
+        <shipping>
+            <location>INGRAM_B2C</location>
+            <shippingDescription>Fedex - Free – Florida</shippingDescription>
+            <shippingMethod>ddp</shippingMethod>
+            <carriercode>FEDEX</carriercode>
+            <carrierservice>FXIE</carrierservice>
+            <shippingPrice>0</shippingPrice>
+        </shipping>
+        <shiptoAddress>
+            <address>
+                <phone>+46722289765</phone>
+                <email>eric@holm.com</email>
+                <name>Eric Holm</name>
+                <zip>46988</zip>
+                <address1>5000 lighthouse circle apt F</address1>
+                <state>CA</state>
+                <country>US</country>
+                <city>coconut creek</city>
+            </address>
+        </shiptoAddress>
+        <grandTotal>47.94</grandTotal>
+        <grandTotalExVat>47.94</grandTotalExVat>
+        <lines>
+            <line>
+                <productNo>04092110</productNo>
+                <itemNo>04092110_NOSIZE</itemNo>
+                <unitPriceInclVat>47.94</unitPriceInclVat> 
+                <unitPriceExVat>47.94</unitPriceExVat>
+                <unitVatPercent>0.0000</unitVatPercent>
+                <quantity>1.0000</quantity>
+                <discountAmount>51.06</discountAmount>
+                <lineAmount>47.94</lineAmount>
+                <lineAmountExVat>47.94</lineAmountExVat>
+                <itemDescription>Plattan 2 BT Black</itemDescription>
+            </line>
+        </lines>
+    </order>
+</nav>
