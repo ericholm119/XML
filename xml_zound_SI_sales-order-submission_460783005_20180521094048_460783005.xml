@@ -1,1 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><message><message-header><message-id>7496</message-id><transaction-name>sales-order-submission</transaction-name><partner-name>zound</partner-name><partner-password /><source-url /><create-timestamp>20180521</create-timestamp><response-request>0</response-request></message-header><sales-order-submission><header><customer-id>400010</customer-id><business-name /><customer-information><customer-first-name>FNAC DARTY PARTICIPATIONS ET SERVICES</customer-first-name><customer-last-name /><customer-address1>Comptabilité Fournisseurs Audio</customer-address1><customer-address2>3 Avenue Charles Lindberg</customer-address2><customer-address3 /><customer-city>Wissous</customer-city><customer-state /><customer-post-code>91320</customer-post-code><customer-country-code>FR</customer-country-code><customer-phone1>tel +33 169 72 82 79</customer-phone1><customer-fax>0</customer-fax><customer-email>zarah.lahlouh@fnac.com</customer-email></customer-information><shipment-information><ship-first-name>FNAC Entrepôt DARTY</ship-first-name><ship-last-name /><ship-address1>3 rue de la Fontaine des Bries</ship-address1><ship-address2>ZAE de la Barogne 6</ship-address2><ship-address3>Daniel LECOR</ship-address3><ship-city>Moussy le neuf</ship-city><ship-state /><ship-post-code>77230</ship-post-code><ship-country-code>FR</ship-country-code><ship-phone1>tel +33 169 72 82 79</ship-phone1><ship-email>zarah.lahlouh@fnac.com</ship-email><ship-via>DEFAULT</ship-via><ship-via-service>STD</ship-via-service><ship-incoterms>DDP</ship-incoterms><ship-request-date>20180521</ship-request-date><dock-date /><ship-to-code /></shipment-information><purchase-order-information><purchase-order-number>124719</purchase-order-number><purchase-order-amount /><currency-code /><comments /></purchase-order-information><order-header><customer-order-number>SO1001771</customer-order-number><customer-order-date>20180516</customer-order-date><order-type>WEB</order-type><order-reference>WEB FR</order-reference><order-total-net>99.4</order-total-net><order-tax1>0</order-tax1><brand-code>302</brand-code></order-header></header><detail><line-item><line-no>10000</line-no><item-code>04091189</item-code><universal-product-code>7340055313834</universal-product-code><quantity>1</quantity><unit-of-measure>PCS</unit-of-measure><base-price>99.4</base-price><line-tax1>0</line-tax1></line-item></detail></sales-order-submission><transactionInfo><eventID>SerializeSalesOrders</eventID></transactionInfo></message>
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <message-header>
+    <message-id>7496</message-id>
+    <transaction-name>sales-order-submission</transaction-name>
+    <partner-name>zound</partner-name>
+    <partner-password />
+    <source-url />
+    <create-timestamp>20180521</create-timestamp>
+    <response-request>0</response-request>
+  </message-header>
+  <sales-order-submission>
+    <header>
+      <customer-id>400010</customer-id>
+      <business-name />
+      <customer-information>
+        <customer-first-name>FNAC DARTY PARTICIPATIONS ET SERVICES</customer-first-name>
+        <customer-last-name />
+        <customer-address1>Comptabilité Fournisseurs Audio</customer-address1>
+        <customer-address2>3 Avenue Charles Lindberg</customer-address2>
+        <customer-address3 />
+        <customer-city>Wissous</customer-city>
+        <customer-state />
+        <customer-post-code>91320</customer-post-code>
+        <customer-country-code>FR</customer-country-code>
+        <customer-phone1>tel +33 169 72 82 79</customer-phone1>
+        <customer-fax>0</customer-fax>
+        <customer-email>zarah.lahlouh@fnac.com</customer-email>
+      </customer-information>
+      <shipment-information>
+        <ship-first-name>FNAC Entrepôt DARTY</ship-first-name>
+        <ship-last-name />
+        <ship-address1>3 rue de la Fontaine des Bries</ship-address1>
+        <ship-address2>ZAE de la Barogne 6</ship-address2>
+        <ship-address3>Daniel LECOR</ship-address3>
+        <ship-city>Moussy le neuf</ship-city><ship-state />
+        <ship-post-code>77230</ship-post-code>
+        <ship-country-code>FR</ship-country-code>
+        <ship-phone1>tel +33 169 72 82 79</ship-phone1>
+        <ship-email>zarah.lahlouh@fnac.com</ship-email>
+        <ship-via>DEFAULT</ship-via>
+        <ship-via-service>STD</ship-via-service>
+        <ship-incoterms>DDP</ship-incoterms>
+        <ship-request-date>20180521</ship-request-date>
+        <dock-date /><ship-to-code />
+      </shipment-information>
+      <purchase-order-information>
+        <purchase-order-number>124719</purchase-order-number>
+        <purchase-order-amount />
+        <currency-code />
+        <comments />
+      </purchase-order-information>
+      <order-header>
+        <customer-order-number>SO1001771</customer-order-number>
+        <customer-order-date>20180516</customer-order-date>
+        <order-type>WEB</order-type>
+        <order-reference>WEB FR</order-reference>
+        <order-total-net>99.4</order-total-net>
+        <order-tax1>0</order-tax1>
+        <brand-code>302</brand-code>
+      </order-header>
+    </header>
+    <detail>
+    <line-item>
+      <line-no>10000</line-no>
+      <item-code>04091189</item-code>
+      <universal-product-code>7340055313834</universal-product-code>
+      <quantity>1</quantity>
+      <unit-of-measure>PCS</unit-of-measure>
+      <base-price>99.4</base-price>
+      <line-tax1>0</line-tax1>
+      </line-item>
+    </detail>
+  </sales-order-submission>
+  <transactionInfo>
+    <eventID>SerializeSalesOrders</eventID>
+  </transactionInfo>
+</message>
