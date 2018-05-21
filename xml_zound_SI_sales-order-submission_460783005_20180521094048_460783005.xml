@@ -42,7 +42,8 @@
         <ship-via-service>STD</ship-via-service>
         <ship-incoterms>DDP</ship-incoterms>
         <ship-request-date>20180521</ship-request-date>
-        <dock-date /><ship-to-code />
+        <dock-date />
+        <ship-to-code />
       </shipment-information>
       <purchase-order-information>
         <purchase-order-number>124719</purchase-order-number>
