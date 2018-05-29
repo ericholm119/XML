@@ -1,0 +1,54 @@
+
+
+<nav>
+    <order>
+        <domain>5</domain>
+        <webOrderNo>testsk011</webOrderNo>
+        <orderType>WEB</orderType>
+        <orderDate>2018-05-29</orderDate>
+        <currencyCode>EUR</currencyCode>
+        <firstName>Christoffer</firstName>
+        <lastName>Lindgren</lastName>
+        <payment>
+            <paymentMethod>ADN</paymentMethod>
+            <paymentMethodDescription>adyen_cc</paymentMethodDescription> 
+            <transactionNo>1234567894</transactionNo>
+        </payment>
+        <shipping>
+            <location>EU_ECOM</location>
+            <shippingDescription>DHL Economy</shippingDescription>
+            <shippingMethod>ddp</shippingMethod>
+            <carriercode>DHL_SK</carriercode>
+            <carrierservice>ECON</carrierservice>
+            <shippingPrice>0</shippingPrice>
+        </shipping>
+        <shiptoAddress>
+            <address>
+                <phone>+46702890380</phone>
+                <email>christoffer.lindgren@zoundindustries.com</email>
+                <name>christoffer lindgren</name>
+                <zip>75007</zip>
+                <address1>5 Avenue Anatole France</address1>
+                <country>FR</country>
+                <city>Paris</city>
+            </address>
+        </shiptoAddress>
+        <grandTotal>249</grandTotal>
+        <grandTotalExVat>187</grandTotalExVat>
+        <lines>
+            <line>
+                <productNo>04090800</productNo>
+                <itemNo>04090800_NOSIZE</itemNo>
+                <unitPriceInclVat>249.000</unitPriceInclVat>
+                <unitPriceExVat>187.000</unitPriceExVat>
+                <unitVatPercent>0.0000</unitVatPercent>
+                <quantity>1.0000</quantity>
+                <discountAmount>0.000</discountAmount>
+                <lineAmount>249.000</lineAmount>
+                <lineAmountExVat>187.000</lineAmountExVat>
+                <itemDescription>Monitor Black</itemDescription>
+            </line>
+        </lines>
+    </order>
+</nav>
+
