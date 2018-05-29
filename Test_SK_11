@@ -1,5 +1,3 @@
-
-
 <nav>
     <order>
         <domain>5</domain>
@@ -33,8 +31,8 @@
                 <city>Paris</city>
             </address>
         </shiptoAddress>
-        <grandTotal>249</grandTotal>
-        <grandTotalExVat>187</grandTotalExVat>
+        <grandTotal>249.00</grandTotal>
+        <grandTotalExVat>187.00</grandTotalExVat>
         <lines>
             <line>
                 <productNo>04090800</productNo>
